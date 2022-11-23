@@ -1,0 +1,41 @@
+body {
+    border: none;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    background-color: antiquewhite;
+    width: 100%;
+    height: fit-content;
+}
+
+.home {
+    width: 30px;
+    height: 30px;
+    margin: 10px 10px 10px 15px; 
+}
+
+.profile {
+    width: 30px;
+    height: 30px;
+    margin: 10px 10px 10px 0px; 
+}
+
+.portfolio {
+    width: 30px;
+    height: 30px;
+    margin: 10px 10px 10px 0px; 
+}
+
+.cv {
+    width: 30px;
+    height: 30px;
+    margin: 10px 10px 10px 0px; 
+}
+
+.termo {
+    width: 30px;
+    height: 30px;
+    margin: 10px 0px 10px 10px; 
+}
