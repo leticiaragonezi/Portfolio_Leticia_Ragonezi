@@ -1,0 +1,13 @@
+@mixin make-container($padding-x: $container-padding-x) {
+    width: 100%;
+    padding-right: $padding-x;
+    padding-left: $padding-x;
+    padding-bottom: 3px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  
+  .custom-container {
+    @include make-container();
+  }
